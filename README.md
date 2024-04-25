@@ -1,4 +1,2 @@
 # work
-#ok
-#gn
-#super
+
